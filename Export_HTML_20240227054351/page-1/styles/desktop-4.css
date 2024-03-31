@@ -1,0 +1,115 @@
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  margin: 100;
+  padding: 100;
+}
+
+.desktop-4-LSj {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.auto-group-ayzm-qeP {
+  text-align: center;
+}
+
+.mask-group-Lb9 {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+.create-an-account-rpP {
+  font-family: 'League Spartan', sans-serif;
+  font-size: 50px;
+  margin: 50px 0;
+}
+
+.auto-group-pqsd-Khy {
+  width: 500%;
+  max-width: 600px;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.auto-group-hesh-cBH {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.auto-group-wgz5-F7m {
+  width: 100%;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.auto-group-6yyb-w91 {
+  display: flex;
+  justify-content: space-between;
+}
+
+.auto-group-uah5-1o5,
+.auto-group-t7xu-Nn3 {
+  position: relative;
+}
+
+.mask-group-XWX,
+.mask-group-W7Z{
+  height: auto;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-25%);
+}
+.mask-group-jFD {
+  width: 20px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.auto-group-dpvr-q3M {
+  display: flex;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.rectangle-13-KUK {
+  width: 20px; /* Adjust the width as needed */
+  height: 20px; /* Adjust the height as needed */
+  background-color: #4caf50; /* Adjust the color as needed */
+  margin-right: 10px;
+}
+
+.i-agree-to-the-terms-conditions-bgj {
+  font-size: 15px;
+  color: #555;
+  line-height: 1.5;
+}
+
+.auto-group-eay7-Yto{
+  
+  color:blue;
+  text-align: center;
+}
+.already-have-an-account-sign-in-ktP {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.line-1-zF1,
+.line-2-uYK {
+  height: 1px;
+  background-color: #ccc;
+  margin: 10px 0;
+}

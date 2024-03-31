@@ -1,0 +1,244 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-1-3wm {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+.desktop-1-3wm .auto-group-ygym-57m {
+  box-sizing: border-box;
+  padding: 6.5rem 65rem 3.2rem 62.9rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(335.83deg, #c8e8ff 84.51%, rgba(251, 250, 255, 0) 212.76%);
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ygym-57m .auto-group-qatw-7Tm {
+  margin: 0rem 2.3rem 1.8rem 4.3rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1.428rem 1.271rem 1.4rem;
+  width: calc(100% - 6.6rem);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1.png');
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ygym-57m .auto-group-qatw-7Tm .vector-9fM {
+  width: 6.6725rem;
+  height: 7.0286rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-1-3wm .auto-group-ygym-57m .getify-S8f {
+  margin: 0rem 0rem 1.6rem 0.3rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: JejuGothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ygym-57m .lets-dive-in-into-your-account-hqH {
+  font-size: 1.3rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #9a9a9a;
+  font-family: JejuGothic, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB {
+  width: 100%;
+  height: 71.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-k6xh-G1D {
+  box-sizing: border-box;
+  padding: 1.204rem 10.1rem 1rem 1.8rem;
+  width: 41rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 51.5rem;
+  top: 12.5rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #cdcdcd;
+  border-radius: 1.2rem;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-k6xh-G1D .google-logo-Ftj {
+  margin: 0rem 4.9rem 0.304rem 0rem;
+  width: 2.8rem;
+  height: 2.5926rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-k6xh-G1D .continue-with-google-9jD {
+  margin-top: 0.5963rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-4d6x-Qf9 {
+  box-sizing: border-box;
+  padding: 1rem 11.5rem 1rem 1.785rem;
+  width: 41rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 51.6rem;
+  top: 19.4rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #cdcdcd;
+  border-radius: 1.2rem;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-4d6x-Qf9 .apple-logo-tqD {
+  margin: 0rem 5.085rem 0.01rem 0rem;
+  width: 2.6291rem;
+  height: 3.0898rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-4d6x-Qf9 .continue-with-apple-DMh {
+  margin-top: 0.8rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-l8up-V4K {
+  box-sizing: border-box;
+  padding: 1.1rem 8.1rem 1rem 1.5rem;
+  width: 41rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 51.6rem;
+  top: 26.3rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #cdcdcd;
+  border-radius: 1.2rem;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-l8up-V4K .facebook-logo-jjM {
+  margin-right: 5rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-l8up-V4K .continue-with-facebook-saf {
+  margin-top: 0.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-ntfm-mvw {
+  box-sizing: border-box;
+  padding: 1.2rem 10.5rem 1rem 1.8rem;
+  width: 41rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 51.6rem;
+  top: 33.2rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #cdcdcd;
+  border-radius: 1.2rem;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-ntfm-mvw .vector-g2K {
+  margin: 0rem 4.9rem 0.6rem 0rem;
+  width: 2.8rem;
+  height: 2.3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-ntfm-mvw .continue-with-twitter-zYo {
+  margin-top: 0.6rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .auto-group-ka5v-hTD {
+  width: 41rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 51.6rem;
+  top: 45.5rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0072f9;
+  border-radius: 1.2rem;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .dont-have-an-account-sign-up-iNK {
+  width: 25.9rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 58.8rem;
+  top: 57.8rem;
+  font-size: 2rem;
+  font-weight: 300;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-1-3wm .auto-group-ggud-jGB .dont-have-an-account-sign-up-iNK .dont-have-an-account-sign-up-iNK-sub-0 {
+}
+.desktop-1-3wm .auto-group-ggud-jGB .dont-have-an-account-sign-up-iNK .dont-have-an-account-sign-up-iNK-sub-1 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 0.92;
+  color: #0072f9;
+  font-family: League Spartan, 'Source Sans Pro';
+}

@@ -1,0 +1,372 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.desktop-5-uV1 {
+  width: 100%;
+  height: 102.4rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.desktop-5-uV1 .auto-group-uqjh-dfu {
+  box-sizing: border-box;
+  padding: 5.9rem 5.6rem 11.7rem 5.6rem;
+  width: 144rem;
+  height: 30.5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background: linear-gradient(335.83deg, #c8e8ff 84.51%, rgba(251, 250, 255, 0) 212.76%);
+}
+.desktop-5-uV1 .auto-group-uqjh-dfu .mask-group-vf1 {
+  margin-bottom: 1.9rem;
+  width: 4.9rem;
+  height: 5.4rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+}
+.desktop-5-uV1 .auto-group-uqjh-dfu .create-an-account-rHm {
+  margin-left: 40.5rem;
+  font-size: 6rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.desktop-5-uV1 .auto-group-on31-gXh {
+  box-sizing: border-box;
+  padding: 3.3rem 29.8rem 4.3rem 28.4rem;
+  width: 144rem;
+  height: 41.2rem;
+  position: absolute;
+  left: 0;
+  top: 30.5rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-tijy-ABy {
+  margin: 0rem 25.5rem 1.7rem 0.1rem;
+  width: calc(100% - 25.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-tijy-ABy .name-Gko {
+  margin-right: 38.8rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-tijy-ABy .mobile-number-c3y {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-5sab-ico {
+  margin-bottom: 5rem;
+  width: 100%;
+  height: 5.1rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-5sab-ico .auto-group-yvr3-eWT {
+  margin-right: 3.8rem;
+  box-sizing: border-box;
+  padding: 1.1rem 31rem 1.6rem 2.1rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #cdcdcd;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-5sab-ico .auto-group-yvr3-eWT .mask-group-xGF {
+  margin: 0rem 0.7rem 0.1rem 0rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-5sab-ico .auto-group-yvr3-eWT .name-SSK {
+  margin-top: 0.5rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #9a9a9a;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-5sab-ico .auto-group-4smh-uao {
+  box-sizing: border-box;
+  padding: 1.2rem 23.7rem 1.6rem 2.4rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #cdcdcd;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-5sab-ico .auto-group-4smh-uao .mask-group-1tj {
+  margin-right: 0.4rem;
+  width: 2.3rem;
+  height: 2.3rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-5sab-ico .auto-group-4smh-uao .mobile-number-MSo {
+  margin-top: 0.4rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #9a9a9a;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-tmls-Tkj {
+  margin: 0rem 31.3rem 1.4rem 0.1rem;
+  width: calc(100% - 31.4rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-tmls-Tkj .email-b6F {
+  margin-right: 39rem;
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-tmls-Tkj .password-jCT {
+  font-size: 2.5rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-x5ct-3yq {
+  margin-bottom: 7.8rem;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-x5ct-3yq .auto-group-lyc3-oi7 {
+  margin: 0.3rem 3.8rem 0rem 0rem;
+  box-sizing: border-box;
+  padding: 1.3rem 31.3rem 1.6rem 2.1rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #cdcdcd;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-x5ct-3yq .auto-group-lyc3-oi7 .mask-group-UJT {
+  margin: 0rem 1rem 0.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-x5ct-3yq .auto-group-lyc3-oi7 .email-m2f {
+  margin-top: 0.3rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #9a9a9a;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-x5ct-3yq .auto-group-y7z9-5JF {
+  margin-bottom: 0.3rem;
+  box-sizing: border-box;
+  padding: 0.8rem 1.8rem 1.1rem 2rem;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #cdcdcd;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-x5ct-3yq .auto-group-y7z9-5JF .mask-group-zg7 {
+  margin: 0rem 0.1rem 0.1rem 0rem;
+  width: 2.9rem;
+  height: 2.1rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-x5ct-3yq .auto-group-y7z9-5JF .password-vpf {
+  margin: 0.3rem 24.7rem 0rem 0rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #9a9a9a;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-x5ct-3yq .auto-group-y7z9-5JF .mask-group-TJo {
+  width: 1.7rem;
+  height: 3.2rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-4nvb-NAs {
+  margin: 0rem 25.2rem 0rem 24.2rem;
+  width: calc(100% - 49.4rem);
+  display: flex;
+  align-items: flex-end;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-4nvb-NAs .mask-group-6cf {
+  margin: 0rem 1rem 0.1rem 0rem;
+  width: 2.5rem;
+  height: 2.5rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-4nvb-NAs .i-agree-to-the-terms-conditions-pYf {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-4nvb-NAs .i-agree-to-the-terms-conditions-pYf .i-agree-to-the-terms-conditions-pYf-sub-0 {
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-4nvb-NAs .i-agree-to-the-terms-conditions-pYf .i-agree-to-the-terms-conditions-pYf-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.desktop-5-uV1 .auto-group-on31-gXh .auto-group-4nvb-NAs .i-agree-to-the-terms-conditions-pYf .i-agree-to-the-terms-conditions-pYf-sub-2 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 0.92;
+  color: #0072f9;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.desktop-5-uV1 .auto-group-72rt-mEw {
+  box-sizing: border-box;
+  padding: 3.4rem 0rem 11.5rem 0rem;
+  width: 144rem;
+  height: 25.1rem;
+  position: absolute;
+  left: 0;
+  top: 77.3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.desktop-5-uV1 .auto-group-72rt-mEw .line-1-fLK {
+  margin: 0rem 0.1rem 5.05rem 0rem;
+  width: calc(100% - 0.1rem);
+  height: 0.05rem;
+  background-color: #cdcdcd;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .auto-group-72rt-mEw .auto-group-vgqm-BJf {
+  margin: 0rem 51.4rem 0rem 51.6rem;
+  width: calc(100% - 103rem);
+  height: 5.1rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 0.92;
+  color: #ffffff;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #0072f9;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.desktop-5-uV1 .already-have-an-account-sign-in-bNP {
+  width: 33.2rem;
+  height: 2.3rem;
+  position: absolute;
+  left: 54.7rem;
+  top: 75rem;
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: baseline;
+}
+.desktop-5-uV1 .already-have-an-account-sign-in-bNP .already-have-an-account-sign-in-bNP-sub-0 {
+}
+.desktop-5-uV1 .already-have-an-account-sign-in-bNP .already-have-an-account-sign-in-bNP-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 300;
+  line-height: 0.92;
+  color: #000000;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.desktop-5-uV1 .already-have-an-account-sign-in-bNP .already-have-an-account-sign-in-bNP-sub-2 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 0.92;
+  color: #0072f9;
+  font-family: League Spartan, 'Source Sans Pro';
+}
+.desktop-5-uV1 .line-2-QUF {
+  width: 144rem;
+  height: 0.05rem;
+  position: absolute;
+  left: 0;
+  top: 71.7rem;
+  background-color: #cdcdcd;
+}
